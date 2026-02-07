@@ -1,7 +1,7 @@
 title: Containerization & DevOps
 description: "Lab experiments and theory notes for Containerization & DevOps specialization."
-author: Pranav R Nair
-email: nairp126@gmail.com # Optional: Add your email if you want
+author: Sarthak Kamboj
+email: kambojsarthak767@gmail.com # Optional: Add your email if you want
 
 # Build settings
 markdown: kramdown
@@ -11,8 +11,8 @@ plugins:
   - jekyll-seo-tag
 
 # URL Settings (Important for GitHub Pages)
-url: "https://nairp126.github.io" 
-baseurl: "/Containerization-Devops-" 
+url: "https://khattitoffe.github.io/" 
+baseurl: "/Containerization_Devops_Lab" 
 
 # Exclude from processing
 exclude:
