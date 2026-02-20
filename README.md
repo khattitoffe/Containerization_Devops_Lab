@@ -25,9 +25,9 @@ Welcome to my personal laboratory and documentation repository for the **Contain
 
 ### 🧪 Practical Labs
 
-* [**Exp 1: VMs vs Containers**](./lab/exp-1/) - Comparison of Vagrant and Docker (Setup & Analysis).
-* [**Exp 2: Docker Lifecycle**](./lab/exp-2/) - Installation, Image Management, and Basic Commands.
-* [**Exp 3: Comparing Images**](./lab/exp-3/) - Installation, and comparing differnt nginx images.
+* [**Exp 1: VMs vs Containers**](./Lab/exp-1/) - Comparison of Vagrant and Docker (Setup & Analysis).
+* [**Exp 2: Docker Lifecycle**](./Lab/exp-2/) - Installation, Image Management, and Basic Commands.
+* [**Exp 3: Comparing Images**](./Lab/exp-3/) - Installation, and comparing differnt nginx images.
 
 ### 📘 Theory Units
 
