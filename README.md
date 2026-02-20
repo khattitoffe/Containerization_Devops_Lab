@@ -39,8 +39,9 @@ Welcome to my personal laboratory and documentation repository for the **Contain
 ```text
 Containerization-and-Devops/
 ├── lab/
-│   ├── EXP-1/          # Experiment 1: VMs vs Containers
-│   └── EXP-2/          # Experiment 2: Docker Basics
+│   ├── exp-1/          # Experiment 1: VMs vs Containers
+│   └── exp-2/          # Experiment 2: Docker Basics
+|   └── exp-3/          # Experiment 3: Comapring different nginx images 
 └── README.md           # You are here
 ```
 
@@ -51,13 +52,13 @@ To explore the contents of this repository locally:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/nairp126/Containerization-and-Devops-.git
+    git clone git@github.com:khattitoffe/Containerization_Devops_Lab.git
     ```
 
 2. **Navigate to the directory**:
 
     ```bash
-    cd Containerization-and-Devops-
+    cd Containerization_Devops_Lab
     ```
 
 3. **View Notes**: Open the markdown files in your favorite editor (VS Code, Obsidian) or view them directly on GitHub.
